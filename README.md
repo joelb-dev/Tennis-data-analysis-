@@ -1,0 +1,1 @@
+simple python program to take data from the tennis_stats.csv file and create a scatter graph for a user defined x and y axis value and use the linear regression model from scikitlearn to predict future results
